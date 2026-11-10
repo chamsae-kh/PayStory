@@ -87,7 +87,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20211205</version>
+			<version>20260719</version>
 		</dependency>
 
 		<!-- 회원가입 관련에서 추가 한것들 -->
